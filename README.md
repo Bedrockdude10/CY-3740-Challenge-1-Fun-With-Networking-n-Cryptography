@@ -8,3 +8,6 @@ messages being sent between the client and server. As such, the first few hundre
 the server fail the integrity check - this is why I send & receive the message 1000 times. After receiving an
 uncorrupted message from the server, I hash and base64 encode the message using functions from the Sodium library to
 get a printable string.
+
+****
+STUDENTS OF CY 3740: DO NOT COPY THIS CODE. PROF KAAN WILL FIND YOU.
